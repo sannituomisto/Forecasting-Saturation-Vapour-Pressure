@@ -1,7 +1,6 @@
-# Predicting Saturation Vapour Pressure
+# Forecasting Saturation Vapour Pressure
 
-This is a final report for the group project of the course Introduction to Machine Learning.
-The task was to build a regression-based machine learning model that predicts saturation vapour pressure using the GeckoQ dataset [1] with atomic structures of 31,637 atmospherically relevant molecules resulting from the oxidation of 𝛼-pinene, toluene and decane.
+This final report presents the results of the group project for the course Introduction to Machine Learning. The objective was to develop a regression-based machine learning model to predict saturation vapor pressure using the GeckoQ dataset [1], which contains atomic structures of 31,637 atmospherically relevant molecules derived from the oxidation of α-pinene, toluene, and decane. The model’s performance was evaluated using the R² score, which was calculated by comparing our predictions on the test data with the ground truth labels, accessible only to the course staff.
 
 [Final Report of the project](Final_Report.pdf)
 
